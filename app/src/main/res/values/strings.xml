@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPianoApp</string>
+    <string name="key_c">C</string>
+    <string name="key_d">D</string>
+    <string name="key_e">E</string>
+    <string name="key_f">F</string>
+    <string name="key_g">G</string>
+    <string name="key_a">A</string>
+    <string name="key_b">B</string>
+</resources>

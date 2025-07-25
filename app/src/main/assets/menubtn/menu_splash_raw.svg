@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="837.03027"
+   height="653.22699"
+   viewBox="0 0 837.03027 653.22699"
+   sodipodi:docname="menu_splash.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch13"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="swatch8"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch1"
+       id="linearGradient8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.1379953,2.6108558)"
+       x1="194.81647"
+       y1="134.82718"
+       x2="287.44147"
+       y2="134.82718" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-24.80313,84.852814)"
+       x1="51.314636"
+       y1="290.76443"
+       x2="172.39555"
+       y2="290.76443" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch8"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-50.911688,53.522544)"
+       x1="106.01088"
+       y1="553.4649"
+       x2="1596.5734"
+       y2="553.4649" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch13"
+       id="linearGradient11"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(56.1334,22.192274)"
+       x1="185.7599"
+       y1="647.45575"
+       x2="1089.5724"
+       y2="647.45575" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="837.03027"
+       height="653.22699"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-24.253506,-47.564438)">
+    <text
+       xml:space="preserve"
+       style="font-size:226.667px;line-height:0;font-family:'Roboto Round';-inkscape-font-specification:'Roboto Round';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:700.785;fill:#ffffff;stroke:url(#linearGradient8);stroke-width:4.516;paint-order:stroke fill markers"
+       x="163.17847"
+       y="207.56303"
+       id="text1"
+       transform="translate(-6.5271395,7.8325674)"><tspan
+         x="163.17847"
+         y="207.56303"
+         id="tspan2">NOTE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:226.667px;line-height:0;font-family:'Roboto Round';-inkscape-font-specification:'Roboto Round';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:url(#linearGradient9);stroke-width:4.516;paint-order:stroke fill markers"
+       x="15.665135"
+       y="459.51062"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="15.665135"
+         y="459.51062"
+         style="stroke:url(#linearGradient9)">VOYAGE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:0;font-family:'Roboto Round';-inkscape-font-specification:'Roboto Round';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:url(#linearGradient10);stroke-width:4.516;paint-order:stroke fill markers"
+       x="50.91169"
+       y="625.29999"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="50.91169"
+         y="625.29999"
+         style="font-size:53.3333px;stroke:url(#linearGradient10)">Game-trainer for the development</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:53.3333px;line-height:0;font-family:'Roboto Round';-inkscape-font-specification:'Roboto Round';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:url(#linearGradient11);stroke-width:4.516;paint-order:stroke fill markers"
+       x="238.8933"
+       y="687.96051"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="238.8933"
+         y="687.96051"
+         style="font-size:53.3333px;stroke:url(#linearGradient11)">of musical hearing</tspan></text>
+  </g>
+</svg>
