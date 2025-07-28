@@ -124,7 +124,7 @@ MyPianoApp/
 ```
 
 <a id="technicaldetails"></a>
-## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Технические детали" width="450"/>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Технические%20детали" width="450"/>
 
 ### Используемые технологии
 - **Язык**: Java
