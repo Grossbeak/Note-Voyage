@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyPianoApp</string>
+    <string name="app_name">Note Voyage</string>
     <string name="key_c">C</string>
     <string name="key_d">D</string>
     <string name="key_e">E</string>
