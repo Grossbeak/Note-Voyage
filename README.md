@@ -2,9 +2,10 @@
 
 [🇷🇺 Русский](README.ru.md) | 🇺🇸 English
 
-A musical application for learning to play the piano with interactive lessons and training sessions.
+A game-trainer for developing musical ear.
 
-## Screenshots
+<a id="screenshots"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Screenshots" width="450"/>
 
 <div align="center">
   <img src="screenshots/main-menu.png" width="90%" alt="Main Menu">
@@ -16,17 +17,19 @@ A musical application for learning to play the piano with interactive lessons an
   <img src="screenshots/training.png" width="45%" alt="Training Mode">
 </div>
 
-## Description
+<a id="description"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Description" width="450"/>
 
 Note-Voyage is an Android application that will help you learn to play the piano. The app includes:
 
-- **Interactive lessons** - step-by-step learning with visual prompts
+- **Interactive lessons** - helps improve musical ear
 - **Training mode** - free play on a virtual piano
 - **Sound effects** - realistic piano sounds
-- **Learning progress** - tracking your achievements
+- **Training progress** - tracking your achievements
 - **Beautiful interface** - modern design with animations
 
-## Features
+<a id="features"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Features" width="450"/>
 
 ### 🎹 Core Features
 - Virtual piano with realistic sounds
@@ -45,7 +48,8 @@ Note-Voyage is an Android application that will help you learn to play the piano
 - Level progress
 - New level unlocking
 
-## Installation
+<a id="installation"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Installation" width="450"/>
 
 ### Requirements
 - Android 7.0 (API level 24) or higher
@@ -82,15 +86,16 @@ cd Note-Voyage
 
 ### Navigation
 - **Main Menu** - game mode selection
-- **Level Selection** - choose a lesson to study
+- **Level Selection** - choose a lesson for training
 - **Game Screen** - interactive piano
 - **Settings** - sound and other parameter settings
 
 ### Game Modes
-- **Lessons** - structured learning
+- **Levels** - interactive lessons
 - **Training** - free play
 
-## Project Structure
+<a id="structure"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Project%20Structure" width="450"/>
 
 ```
 MyPianoApp/
@@ -116,7 +121,8 @@ MyPianoApp/
 └── build.gradle.kts
 ```
 
-## Technical Details
+<a id="technicaldetails"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Technical%20Details" width="450"/>
 
 ### Technologies Used
 - **Language**: Java
@@ -131,7 +137,9 @@ MyPianoApp/
 - **Asset Management** - resource management
 - **Audio Management** - sound playback system
 
-## Development Setup
+
+<a id="developmentsetup"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Development%20Setup" width="450"/>
 
 ### Required Tools
 - Android Studio Arctic Fox or newer
@@ -146,13 +154,24 @@ export JAVA_HOME=/path/to/jdk
 
 ## License
 
-This project is licensed under [specify license].
+This project is licensed under GPL-3.0.
 
-## Contact
+<a id="contact"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Contact" width="450"/>
 
-- **Developer**: GrossBeak
-- **Email**: truecapybara@gmail.com
-- **GitHub**: [\[profile_link\]](https://github.com/Grossbeak)
+- **Developer**: Grossbeak
+- **Email**: grossbeak.pub@gmail.com
+- **GitHub**: https://github.com/Grossbeak
+
+## ☕ Support the Project
+If you want to support my work, you can send a donation to the following cryptocurrency wallets:
+
+| Cryptocurrency | Address                                        		|
+| ------------ | -------------------------------------------------- |
+| **TON**      | `UQA3p4fJJDHjl0TA4u_0fWntQIQj071ZPM5_uAFM-z9OX0LS` |
+| **Ethereum** | `0x81bB02abbb48BB2d6F2BeF2232722705f66D0BEd`       |
+| **Bitcoin**  | `bc1quxh68yt77ruqqt03y5g7y6upp584rwy4rnahkp`       |
+| **Tron**     | `TWQmHhFTfH7n5PGV9oiqScmdGMr4fkm6RF`               |
 
 ## Acknowledgments
 
@@ -160,5 +179,5 @@ Thank you to everyone who helped develop this application!
 
 ---
 
-**Version**: 0.8.1 
+**Version**: 0.8.1  
 **Last Updated**: 28.07.2025 
