@@ -8,6 +8,17 @@
 
 Note-Voyage - это Android-приложение, которое поможет вам научиться играть на пианино. Приложение включает в себя:
 
+## Скриншоты
+
+<div align="center">
+  <img src="screenshots/main-menu.png" width="200" alt="Главное меню">
+  <img src="screenshots/level-select.png" width="200" alt="Выбор уровня">
+  <img src="screenshots/game-screen.png" width="200" alt="Игровой экран">
+  <br>
+  <img src="screenshots/settings.png" width="200" alt="Настройки">
+  <img src="screenshots/training.png" width="200" alt="Режим тренировки">
+</div>
+
 - **Интерактивные уроки** - пошаговое обучение с визуальными подсказками
 - **Режим тренировки** - свободная игра на виртуальном пианино
 - **Звуковые эффекты** - реалистичные звуки пианино
