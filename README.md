@@ -1,4 +1,4 @@
-# MyPianoApp
+# Note-Voyage
 
 [🇷🇺 Русский](README.ru.md) | 🇺🇸 English
 
@@ -6,7 +6,7 @@ A musical application for learning to play the piano with interactive lessons an
 
 ## Description
 
-MyPianoApp is an Android application that will help you learn to play the piano. The app includes:
+Note-Voyage is an Android application that will help you learn to play the piano. The app includes:
 
 - **Interactive lessons** - step-by-step learning with visual prompts
 - **Training mode** - free play on a virtual piano
