@@ -96,7 +96,7 @@ cd MyPianoApp
 - **Уровни** - структурированное обучение
 - **Тренировка** - свободная игра
 
-<a id="project_structure"></a>
+<a id="projectstructure"></a>
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Структура проекта" width="450"/>
 
 ```
@@ -123,7 +123,7 @@ MyPianoApp/
 └── build.gradle.kts
 ```
 
-<a id="technical_details"></a>
+<a id="technicaldetails"></a>
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Технические детали" width="450"/>
 
 ### Используемые технологии
@@ -140,7 +140,7 @@ MyPianoApp/
 - **Audio Management** - система воспроизведения звука
 
 
-<a id="development_setup"></a>
+<a id="developmentsetup"></a>
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Настройка разработки" width="450"/>
 
 ### Необходимые инструменты
