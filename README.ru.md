@@ -11,12 +11,13 @@ Note-Voyage - это Android-приложение, которое поможет
 ## Скриншоты
 
 <div align="center">
-  <img src="screenshots/main-menu.png" width="200" alt="Главное меню">
-  <img src="screenshots/level-select.png" width="200" alt="Выбор уровня">
-  <img src="screenshots/game-screen.png" width="200" alt="Игровой экран">
+  <img src="screenshots/main-menu.png" width="100%" alt="Главное меню">
+  <br><br>
+  <img src="screenshots/level-select.png" width="45%" alt="Выбор уровня">
+  <img src="screenshots/game-screen.png" width="45%" alt="Игровой экран">
   <br>
-  <img src="screenshots/settings.png" width="200" alt="Настройки">
-  <img src="screenshots/training.png" width="200" alt="Режим тренировки">
+  <img src="screenshots/settings.png" width="45%" alt="Настройки">
+  <img src="screenshots/training.png" width="45%" alt="Режим тренировки">
 </div>
 
 - **Интерактивные уроки** - пошаговое обучение с визуальными подсказками

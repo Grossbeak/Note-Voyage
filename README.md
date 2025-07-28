@@ -11,12 +11,13 @@ Note-Voyage is an Android application that will help you learn to play the piano
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/main-menu.png" width="200" alt="Main Menu">
-  <img src="screenshots/level-select.png" width="200" alt="Level Selection">
-  <img src="screenshots/game-screen.png" width="200" alt="Game Screen">
+  <img src="screenshots/main-menu.png" width="100%" alt="Main Menu">
+  <br><br>
+  <img src="screenshots/level-select.png" width="45%" alt="Level Selection">
+  <img src="screenshots/game-screen.png" width="45%" alt="Game Screen">
   <br>
-  <img src="screenshots/settings.png" width="200" alt="Settings">
-  <img src="screenshots/training.png" width="200" alt="Training Mode">
+  <img src="screenshots/settings.png" width="45%" alt="Settings">
+  <img src="screenshots/training.png" width="45%" alt="Training Mode">
 </div>
 
 - **Interactive lessons** - step-by-step learning with visual prompts
