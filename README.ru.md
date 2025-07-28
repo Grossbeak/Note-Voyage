@@ -11,7 +11,7 @@ Note-Voyage - это Android-приложение, которое поможет
 ## Скриншоты
 
 <div align="center">
-  <img src="screenshots/main-menu.png" width="100%" alt="Главное меню">
+  <img src="screenshots/main-menu.png" width="90%" alt="Главное меню">
   <br><br>
   <img src="screenshots/level-select.png" width="45%" alt="Выбор уровня">
   <img src="screenshots/game-screen.png" width="45%" alt="Игровой экран">
