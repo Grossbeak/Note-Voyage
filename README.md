@@ -4,10 +4,6 @@
 
 A musical application for learning to play the piano with interactive lessons and training sessions.
 
-## Description
-
-Note-Voyage is an Android application that will help you learn to play the piano. The app includes:
-
 ## Screenshots
 
 <div align="center">
@@ -19,6 +15,10 @@ Note-Voyage is an Android application that will help you learn to play the piano
   <img src="screenshots/settings.png" width="45%" alt="Settings">
   <img src="screenshots/training.png" width="45%" alt="Training Mode">
 </div>
+
+## Description
+
+Note-Voyage is an Android application that will help you learn to play the piano. The app includes:
 
 - **Interactive lessons** - step-by-step learning with visual prompts
 - **Training mode** - free play on a virtual piano
