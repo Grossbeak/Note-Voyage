@@ -4,7 +4,9 @@
 
 Музыкальное приложение для обучения игре на пианино с интерактивными уроками и тренировками.
 
-## Скриншоты
+<a id="screenshots"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Скриншоты" width="450"/>
+
 
 <div align="center">
   <img src="screenshots/main-menu.png" width="90%" alt="Главное меню">
@@ -16,7 +18,8 @@
   <img src="screenshots/training.png" width="45%" alt="Режим тренировки">
 </div>
 
-## Описание
+<a id="description"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Описание" width="450"/>
 
 Note-Voyage - это Android-приложение, которое поможет вам научиться играть на пианино. Приложение включает в себя:
 
@@ -26,7 +29,8 @@ Note-Voyage - это Android-приложение, которое поможет
 - **Прогресс обучения** - отслеживание ваших достижений
 - **Красивый интерфейс** - современный дизайн с анимациями
 
-## Функциональность
+<a id="features"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Функциональность" width="450"/>
 
 ### 🎹 Основные возможности
 - Виртуальное пианино с реалистичными звуками
@@ -45,7 +49,8 @@ Note-Voyage - это Android-приложение, которое поможет
 - Прогресс по уровням
 - Разблокировка новых уровней
 
-## Установка
+<a id="instalation"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Установка" width="450"/>
 
 ### Требования
 - Android 7.0 (API level 24) или выше
@@ -73,7 +78,8 @@ cd MyPianoApp
 ./gradlew installDebug
 ```
 
-## Использование
+<a id="Usage"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Использование" width="450"/>
 
 ### Первый запуск
 1. Запустите приложение
@@ -90,7 +96,8 @@ cd MyPianoApp
 - **Уровни** - структурированное обучение
 - **Тренировка** - свободная игра
 
-## Структура проекта
+<a id="project_structure"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Структура проекта" width="450"/>
 
 ```
 MyPianoApp/
@@ -116,7 +123,8 @@ MyPianoApp/
 └── build.gradle.kts
 ```
 
-## Технические детали
+<a id="technical_details"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Технические детали" width="450"/>
 
 ### Используемые технологии
 - **Язык**: Java
@@ -131,7 +139,9 @@ MyPianoApp/
 - **Asset Management** - управление ресурсами
 - **Audio Management** - система воспроизведения звука
 
-## Настройка разработки
+
+<a id="development_setup"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Настройка разработки" width="450"/>
 
 ### Необходимые инструменты
 - Android Studio Arctic Fox или новее
@@ -148,11 +158,23 @@ export JAVA_HOME=/path/to/jdk
 
 Этот проект распространяется под лицензией [укажите лицензию].
 
-## Контакты
+<a id="contsct"></a>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Контакты" width="450"/>
 
-- **Разработчик**: GrossBeak
-- **Email**: truecapybara@gmail.com
+- **Разработчик**: Grossbeak
+- **Email**: grossbeak.pub@gmail.com
 - **GitHub**: https://github.com/Grossbeak
+
+## ☕ Поддержать проект
+Если вы хотите поддержать мою работу, вы можете отправить пожертвование на следующие криптовалютные кошельки:
+
+| Криптовалюта | Адрес                                        		|
+| ------------ | -------------------------------------------------- |
+| **TON**      | `UQA3p4fJJDHjl0TA4u_0fWntQIQj071ZPM5_uAFM-z9OX0LS` |
+| **Ethereum** | `0x81bB02abbb48BB2d6F2BeF2232722705f66D0BEd`       |
+| **Bitcoin**  | `bc1quxh68yt77ruqqt03y5g7y6upp584rwy4rnahkp`       |
+| **Tron**     | `TWQmHhFTfH7n5PGV9oiqScmdGMr4fkm6RF`               |
+
 
 ## Благодарности
 
