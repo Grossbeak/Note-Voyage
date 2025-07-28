@@ -154,9 +154,6 @@ export ANDROID_HOME=/path/to/android/sdk
 export JAVA_HOME=/path/to/jdk
 ```
 
-> [!license]
-> Этот проект распространяется под лицензией GPL-3.0.
-
 ## Лицензия
 
 Этот проект распространяется под лицензией GPL-3.0.
