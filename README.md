@@ -1,8 +1,29 @@
-# Note-Voyage
+<div align="center">
+	<!--<img src=".meta/logo.png" width="300px">-->
+	<h1>Note Voyage</h1>
+	<a href="https://github.com/Grossbeak/Note-Voyage/issues">
+		<img src="https://img.shields.io/github/issues/Grossbeak/Note-Voyage?color=ffb29b&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="https://github.com/Grossbeak/Note-Voyage/stargazers">
+		<img src="https://img.shields.io/github/stars/Grossbeak/Note-Voyage?color=fab387&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/Grossbeak/Note-Voyage?color=FCA2AA&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<br>
+	<br>
+	<a href="./README.ru.md">
+		<img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
+	</a>
+	<a href="./README.md">
+		<img src="https://img.shields.io/badge/README-ENG-blue?color=C9CBFF&labelColor=1C2325&style=for-the-badge">
+	</a>
+</div>
 
-[🇷🇺 Русский](README.ru.md) | 🇺🇸 English
-
+## 
+<div align="center">
 A game-trainer for developing musical ear.
+</div>
 
 <a id="screenshots"></a>
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=Screenshots" width="450"/>
