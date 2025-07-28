@@ -30,23 +30,21 @@ MyPianoApp is an Android application that will help you learn to play the piano.
 - Sustain effect (note hold)
 
 ### 🎮 Game Elements
-- Achievement system
 - Level progress
-- Learning statistics
 - New level unlocking
 
 ## Installation
 
 ### Requirements
-- Android 5.0 (API level 21) or higher
-- Minimum 50 MB free space
+- Android 7.0 (API level 24) or higher
+- Minimum 200 MB free space
 
 ### Building from Source
 
 1. Clone the repository:
 ```bash
-git clone [repository_url]
-cd MyPianoApp
+git clone https://github.com/Grossbeak/Note-Voyage
+cd Note-Voyage
 ```
 
 2. Open the project in Android Studio
@@ -79,7 +77,6 @@ cd MyPianoApp
 ### Game Modes
 - **Lessons** - structured learning
 - **Training** - free play
-- **About** - developer information
 
 ## Project Structure
 
@@ -111,7 +108,7 @@ MyPianoApp/
 
 ### Technologies Used
 - **Language**: Java
-- **Minimum SDK**: API 21 (Android 5.0)
+- **Minimum SDK**: API 24 (Android 7.0)
 - **Target SDK**: API 34 (Android 14)
 - **Architecture**: Activity-based
 - **Audio**: MediaPlayer, SoundPool
@@ -127,7 +124,7 @@ MyPianoApp/
 ### Required Tools
 - Android Studio Arctic Fox or newer
 - JDK 11 or higher
-- Android SDK API 21+
+- Android SDK API 24+
 
 ### Environment Variables
 ```bash
@@ -142,8 +139,8 @@ This project is licensed under [specify license].
 ## Contact
 
 - **Developer**: GrossBeak
-- **Email**: [your_email]
-- **GitHub**: [profile_link]
+- **Email**: truecapybara@gmail.com
+- **GitHub**: [\[profile_link\]](https://github.com/Grossbeak)
 
 ## Acknowledgments
 
@@ -151,5 +148,5 @@ Thank you to everyone who helped develop this application!
 
 ---
 
-**Version**: 1.0.0  
-**Last Updated**: [date] 
+**Version**: 0.8.1 
+**Last Updated**: 28.07.2025 
